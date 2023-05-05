@@ -1,0 +1,13 @@
+.service-sec{
+    min-height: 85vh;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+
+.recipe-list{
+    max-height: 75vh;
+}
+
+.filter-sec{
+    max-height: 50vh;
+}

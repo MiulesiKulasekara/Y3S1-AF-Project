@@ -1,0 +1,18 @@
+.nav-cont{
+    background-color: white;
+}
+
+.navbar{
+    height: 10vh;   
+}
+
+.nav-logo{
+    font-size: 20px;
+    font-weight: 700;
+    text-decoration: none;
+    color: black;
+}
+
+.nav-link{
+    text-decoration: none;
+}

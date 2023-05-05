@@ -1,0 +1,50 @@
+.side-bar{
+    /* background-image: linear-gradient(100deg,#4c4c4c,#18003d); */
+    background-color: rgb(53, 53, 170);
+    height: 100vh;
+    position: sticky ;
+    top:0;
+}
+
+.content-sec{
+    width: 100%;
+}
+
+.navgation-bar{
+    /* background-color: #1e00ff; */
+    height: 10vh;
+
+}
+
+.admin-content{
+    background-color: rgb(255, 255, 255);
+    min-height: 85vh;
+}
+
+.admin-profile-pic{
+    background-color: rgb(255, 255, 255);
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.notification-icon{
+    font-size: 30px;
+}
+
+.side-bar-icon{
+    font-size: 20px;
+}
+
+#user-icon{
+    font-size: 25px;
+    color: #fff;
+}
+
+.sidebar-links{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}

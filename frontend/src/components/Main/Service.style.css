@@ -1,0 +1,16 @@
+.service-sec{
+    min-height: 85vh;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+
+.card{
+    background-color: transparent !important;
+    border: 1.5px solid blue !important;
+}
+
+.line{
+    width: 8vw;
+    height: 2px;
+    background-color: black;
+}

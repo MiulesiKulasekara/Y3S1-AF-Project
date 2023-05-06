@@ -4,12 +4,28 @@ import Form from "react-bootstrap/Form";
 import Container from "react-bootstrap/Container";
 import Col from "react-bootstrap/Col";
 import Row from "react-bootstrap/Row";
+import signupImg from "../../../img/1.jpg";
 
 const Donorsignup = () => {
   return (
-    <Container fluid>
-      <Row className="signup-row">
-        <Col className="signup-colA" md="6"></Col>
+    <Container
+      fluid
+      className="d-flex align-items-center"
+      style={{ height: "100vh" }}
+    >
+      <Row
+        className="signup-row m-auto bg-white"
+        style={{ borderRadius: "15px" }}
+      >
+        <Col
+          className="signup-colA"
+          md="6"
+          style={{
+            backgroundImage: `url(${signupImg})`,
+            borderTopLeftRadius: "15px",
+            borderBottomLeftRadius: "15px",
+          }}
+        ></Col>
 
         <Col className="signup-colB" md="6">
           <Form className="signup-frm">

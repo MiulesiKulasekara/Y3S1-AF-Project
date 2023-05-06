@@ -33,6 +33,10 @@ export default function AddRecipe() {
                   <Form.Label>Recipe Name</Form.Label>
                   <Form.Control type="text" placeholder="Beef Welington" />
                 </Form.Group>
+                <Form.Group className="mb-3" controlId="formBasicEmail">
+                  <Form.Label>Recipe type</Form.Label>
+                  <Form.Control type="text" placeholder="Dessert" />
+                </Form.Group>
                 <Form.Group className="mb-3" controlId="formBasicPassword">
                   <Form.Label>Recipe Instruction</Form.Label>
                   <ReactQuill

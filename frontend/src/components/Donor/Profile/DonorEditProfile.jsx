@@ -11,9 +11,9 @@ const DonorEditProfile = () => {
     <Container fluid>
       <Row className="donor-edit-prof-row">
         {/* Side bar */}
-        <Col md={2} className="donor-prof-sidebar">
+        {/* <Col md={2} className="donor-prof-sidebar">
           <DonorProfileSideBar />
-        </Col>
+        </Col> */}
 
         <Col>
           <Row>

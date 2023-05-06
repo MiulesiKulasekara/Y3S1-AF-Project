@@ -11,10 +11,10 @@ const DonationItem = () => {
       <Row>
         <Col>
           <Row>
-            <Col md="10">
+            <Col md="9">
               <h2>My donations</h2>
             </Col>
-            <Col>
+            <Col className="add-col">
               <Button variant="primary">
                 <a className="addDonations-btn" href="/create-donations">
                   +Add a Donation

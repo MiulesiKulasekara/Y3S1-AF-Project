@@ -39,7 +39,7 @@ const DonorProfileSideBar = () => {
         <Row>
           <Col className="ms-4 mt-3 mb-5">
             <BsBellFill className="donor-prof-sidebar-icons" />
-            <Link to="#" className="donor-prof-sidebar-links ms-3">
+            <Link to="/donor/profile/request" className="donor-prof-sidebar-links ms-3">
               Requests
             </Link>
           </Col>

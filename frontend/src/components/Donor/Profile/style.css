@@ -11,9 +11,8 @@
 
 /* Donor profile side bar*/
 .donor-profile-side-bar {
-  background-color: rgb(156, 194, 236);
-  min-height: 850px;
-  position: sticky;
+  background-color: rgb(216, 234, 255);
+  min-height: 80vh;
 }
 .donor-prof-sidebar-img {
   display: block;
@@ -58,8 +57,6 @@
 
 /*create donations*/
 .donation-frm {
-  padding: 50px;
-  background-color: rgb(0, 183, 255);
   margin: auto;
   width: 100%;
 }
@@ -70,23 +67,12 @@
   margin-bottom: 20px;
 }
 
-/* request */
-.request-main-row{
-  padding-top: 20px;
-}
-.donor-request-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 65%;
-  margin-top: 8px;
-}
-.request-row{
-  background-color: rgb(166, 191, 223);
+.service-sec{
+  min-height: 85vh;
+  background-color: rgb(255, 255, 255);
   border-radius: 10px;
-  border: 2px solid rgb(170, 170, 233);
-  margin-bottom: 10px;
 }
-.request-btn{
-  margin-top: 30px;
+
+.colB-createdonations{
+  padding-top: 80px;
 }

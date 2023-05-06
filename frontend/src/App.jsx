@@ -57,3 +57,11 @@ export default App;
 //   <Route path="/donor/edit/myprofile" element={<DonorEditProfile />} />
 //   <Route path="/donor/add/donations" element={<DonorAddDonations />} />
 // </Routes>
+
+{
+  /* <Route path="/donationList" element={<AllDonations />} /> 
+          <Route path="/donation/requests" element={<DonationRequests />} /> 
+
+          import AllDonations from "./donations/AllDonations";
+import DonationRequests from "./Profile/DonationRequests" */
+}

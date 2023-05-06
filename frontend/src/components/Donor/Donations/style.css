@@ -3,6 +3,8 @@
   max-width: 300px;
   margin: auto;
   text-align: center;
+  background-color: aliceblue;
+  border-radius: 10px;
 }
 
 .donated-dry-food {

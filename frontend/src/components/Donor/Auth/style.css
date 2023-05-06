@@ -8,7 +8,6 @@
   padding: 20px;
 }
 .signup-colA {
-  background-image: url("../assets/1.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -16,7 +15,9 @@
 
 /* login */
 .login-row {
-  width: 80%;
+  width: 55%;
+  height: 70vh;
+  border-radius: 15px;
 }
 .login-frm {
   margin: auto;
@@ -24,7 +25,8 @@
   padding: 20px;
 }
 .login-colA {
-  background-image: url("../assets/5.jpg");
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
   background-size: cover;
   background-repeat: no-repeat;
 }

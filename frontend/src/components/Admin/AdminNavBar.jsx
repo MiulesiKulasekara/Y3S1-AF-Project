@@ -10,7 +10,7 @@ export default function AdminNavBar() {
           <div
             className="me-3 admin-profile-pic"
           ></div>
-          <div>Profile-name</div>
+          <div>Imash Nipun</div>
         </div>
         <div className="me-5 notification-icon">
 

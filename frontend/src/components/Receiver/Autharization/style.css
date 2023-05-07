@@ -1,0 +1,62 @@
+/* Receiver SignUp */
+.main-container-signup {
+    padding: 50px;
+  }
+  .signup-div {
+    margin: auto;
+    width: 100%;
+    height: 100%;
+  }
+  .signup-frm {
+    margin: auto;
+    width: 400%;
+    height: 200%;
+    padding: 20px;
+  }
+  .signup-colA {
+    background-image: url("../assests/pic2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+  /* Receiver login */
+.main-container-login {
+    padding: 50px;
+  }
+  .login-div {
+    margin: auto;
+    width: 100%;
+    height: 100%;
+  }
+  .login-frm {
+    margin: auto;
+    width: 700%;
+    height: 700%;
+    padding: 20px;
+  }
+  .login-colA {
+    background-image: url("../assests/pic3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+  /* Receiver Profile */
+.main-container-profile {
+  padding: 50px;
+}
+.profile-div {
+  margin: auto;
+  width: 100%;
+  height: 100%;
+}
+.profile-frm {
+  margin: auto;
+  width: 400%;
+  height: 200%;
+  padding: 20px;
+}
+.profile-colA {
+  background-image: url("../assests/pic5.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}

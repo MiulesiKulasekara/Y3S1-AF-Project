@@ -20,6 +20,9 @@ const Alldonors = () => {
     <Container fluid>
       <Row>
         <Col>
+          <br></br>
+          <h2>All donors</h2>
+          <br></br>
           <Table responsive="md" className="tbl-alldonors">
             <thead>
               <tr>

@@ -39,7 +39,7 @@ export default function Sidebar() {
             className="me-4 side-bar-icon"
             id="user-icon"
           />
-          <Link to="/admin/donations" className="sidebar-links">
+          <Link to="/admin/alldonations" className="sidebar-links">
             Donations
           </Link>
         </Col>

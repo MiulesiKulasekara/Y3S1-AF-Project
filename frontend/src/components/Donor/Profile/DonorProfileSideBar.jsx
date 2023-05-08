@@ -2,6 +2,7 @@ import "./style.css";
 // import Container from "react-bootstrap/Container";
 import Col from "react-bootstrap/Col";
 import Row from "react-bootstrap/Row";
+import Button from "react-bootstrap/Button";
 import { Link } from "react-router-dom";
 import profile from "../../../img/user.png";
 import { BsFillPersonFill } from "react-icons/bs";
@@ -39,7 +40,10 @@ const DonorProfileSideBar = () => {
         <Row>
           <Col className="ms-4 mt-3 mb-5">
             <BsBellFill className="donor-prof-sidebar-icons" />
-            <Link to="/donor/profile/request" className="donor-prof-sidebar-links ms-3">
+            <Link
+              to="/donor/profile/request"
+              className="donor-prof-sidebar-links ms-3"
+            >
               Requests
             </Link>
           </Col>
@@ -57,6 +61,9 @@ const DonorProfileSideBar = () => {
           </Col>
         </Row>
 
+        <Row>
+          <Button className="donor-prof-sidebar-signout" variant="primary" type="submit">Sign out</Button>
+        </Row>
       </Col>
     </Row>
   );

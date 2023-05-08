@@ -15,7 +15,7 @@
 /* Donor profile side bar*/
 .donor-profile-side-bar {
   background-color: rgb(216, 234, 255);
-  min-height: 80vh;
+  min-height: 90vh;
 }
 .donor-prof-sidebar-img {
   display: block;
@@ -36,6 +36,10 @@
 .donor-prof-sidebar-links:hover,
 .donor-prof-sidebar-links:active {
   color: black;
+}
+.donor-prof-sidebar-signout{
+  margin-left: 50px;
+  width: 100px !important;
 }
 
 /* Donor profile */
@@ -82,9 +86,9 @@
   margin-top: 8px;
 }
 .request-row{
-  background-color: rgb(166, 191, 223);
+  background-color: rgb(199, 199, 199);
   border-radius: 10px;
-  border: 2px solid rgb(170, 170, 233);
+  border: 2px solid rgb(226, 226, 226);
   margin-bottom: 10px;
 }
 .request-btn{

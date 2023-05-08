@@ -26,6 +26,7 @@ const DonorProfileEditForm = () => {
                 <Form.Control
                   type="password"
                   placeholder="Enter password"
+                  value="123213123"
                   required
                 />
               </Form.Group>
@@ -34,13 +35,14 @@ const DonorProfileEditForm = () => {
             {/* address */}
             <Form.Group className="mb-3" controlId="formBasicAddress">
               <Form.Label>Address</Form.Label>
-              <Form.Control type="text" placeholder="Enter address" required />
+              <Form.Control type="text" placeholder="Enter address" value="No: 18/A/1, Rilawala, Polgasowita"
+              required />
             </Form.Group>
 
             {/* Location */}
             <Form.Group className="mb-3" controlId="formBasicLocation">
               <Form.Label>Location</Form.Label>
-              <Form.Control type="text" placeholder="Location" required />
+              <Form.Control type="text" placeholder="Location" value="Piliyandala" required />
             </Form.Group>
 
             {/* phone 1 */}
@@ -55,6 +57,7 @@ const DonorProfileEditForm = () => {
                 <Form.Control
                   type="tel"
                   placeholder="94 77 111 2223"
+                  value="94 77 111 2223"
                   pattern="94 [0-9]{2} [0-9]{3} [0-9]{4}"
                   required
                 />
@@ -71,6 +74,7 @@ const DonorProfileEditForm = () => {
                 <Form.Control
                   type="tel"
                   placeholder="94 77 111 2223(Optional)"
+                  value="94 77 111 2223"
                   pattern="94 [0-9]{2} [0-9]{3} [0-9]{4}"
                 />
               </Form.Group>

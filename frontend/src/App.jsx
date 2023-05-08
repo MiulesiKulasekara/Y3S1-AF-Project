@@ -15,6 +15,7 @@ import DonationItem from "./components/Donor/Profile/DonationItem";
 // import DonorProfileEditForm from "./components/Donor/Profile/DonorProfileEditForm";
 // import DonorAddDonations from "./components/Donor/Profile/DonorAddDonations";
 import AllDonations from "./components/Donor/Donations/AllDonations";
+import Alldonations from "./components/Admin/Donor/Alldonations"
 
 import DonorProfile from "./components/Donor/Profile/DonorProfile";
 import DonorEditProfile from "./components/Donor/Profile/DonorEditProfile";
@@ -45,6 +46,7 @@ function App() {
         <Route path="/admin/add-recipe" element={<AddRecipe />} />
 
         <Route path="/admin/alldonors" element={<Alldonors />} />
+        <Route path="/admin/alldonations" element={<Alldonations />} />
       </Route>
 
       <Route path="/signup-donor" element={<Donorsignup />} />

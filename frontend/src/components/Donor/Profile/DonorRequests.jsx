@@ -22,7 +22,7 @@ const DonorRequests = () => {
             </Col>
 
             <Col md="2">
-              <Button className="request-btn" variant="success">
+              <Button className="request-btn" variant="primary">
                 Confirm
               </Button>
             </Col>
@@ -48,7 +48,7 @@ const DonorRequests = () => {
             </Col>
 
             <Col md="2">
-              <Button className="request-btn" variant="success">
+              <Button className="request-btn" variant="primary">
                 Confirm
               </Button>
             </Col>
@@ -74,7 +74,7 @@ const DonorRequests = () => {
             </Col>
 
             <Col md="2">
-              <Button className="request-btn" variant="success">
+              <Button className="request-btn" variant="primary">
                 Confirm
               </Button>
             </Col>

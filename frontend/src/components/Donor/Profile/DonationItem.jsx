@@ -51,164 +51,29 @@ const DonationItem = () => {
             <tbody>
               <tr>
                 <td>1</td>
-                <td>2023.04.13</td>
+                <td>2023.04.28</td>
                 <td>Suger</td>
                 <td>5</td>
+                <td>Kg</td>
+                <td>2025.05.02</td>
+              </tr>
+
+              <tr>
+                <td>2</td>
+                <td>2023.04.19</td>
+                <td>Rice</td>
+                <td>10</td>
                 <td>Kg</td>
                 <td>2023.12.12</td>
               </tr>
 
               <tr>
-                <td>1</td>
-                <td>2023.04.13</td>
-                <td>Suger</td>
-                <td>5</td>
-                <td>Kg</td>
-                <td>2023.12.12</td>
-              </tr>
-
-              <tr>
-                <td>1</td>
-                <td>2023.04.13</td>
-                <td>Suger</td>
-                <td>5</td>
-                <td>Kg</td>
-                <td>2023.12.12</td>
-              </tr>
-
-              <tr>
-                <td>1</td>
-                <td>2023.04.13</td>
-                <td>Suger</td>
-                <td>5</td>
-                <td>Kg</td>
-                <td>2023.12.12</td>
-              </tr>
-
-              <tr>
-                <td>1</td>
-                <td>2023.04.13</td>
-                <td>Suger</td>
-                <td>5</td>
-                <td>Kg</td>
-                <td>2023.12.12</td>
-              </tr>
-
-              <tr>
-                <td>1</td>
-                <td>2023.04.13</td>
-                <td>Suger</td>
-                <td>5</td>
-                <td>Kg</td>
-                <td>2023.12.12</td>
-              </tr>
-
-              <tr>
-                <td>1</td>
-                <td>2023.04.13</td>
-                <td>Suger</td>
-                <td>5</td>
-                <td>Kg</td>
-                <td>2023.12.12</td>
-              </tr>
-
-              <tr>
-                <td>1</td>
-                <td>2023.04.13</td>
-                <td>Suger</td>
-                <td>5</td>
-                <td>Kg</td>
-                <td>2023.12.12</td>
-              </tr>
-
-              <tr>
-                <td>1</td>
-                <td>2023.04.13</td>
-                <td>Suger</td>
-                <td>5</td>
-                <td>Kg</td>
-                <td>2023.12.12</td>
-              </tr>
-
-              <tr>
-                <td>1</td>
-                <td>2023.04.13</td>
-                <td>Suger</td>
-                <td>5</td>
-                <td>Kg</td>
-                <td>2023.12.12</td>
-              </tr>
-
-              <tr>
-                <td>1</td>
-                <td>2023.04.13</td>
-                <td>Suger</td>
-                <td>5</td>
-                <td>Kg</td>
-                <td>2023.12.12</td>
-              </tr>
-
-              <tr>
-                <td>1</td>
-                <td>2023.04.13</td>
-                <td>Suger</td>
-                <td>5</td>
-                <td>Kg</td>
-                <td>2023.12.12</td>
-              </tr>
-
-              <tr>
-                <td>1</td>
-                <td>2023.04.13</td>
-                <td>Suger</td>
-                <td>5</td>
-                <td>Kg</td>
-                <td>2023.12.12</td>
-              </tr>
-
-              <tr>
-                <td>1</td>
-                <td>2023.04.13</td>
-                <td>Suger</td>
-                <td>5</td>
-                <td>Kg</td>
-                <td>2023.12.12</td>
-              </tr>
-
-              <tr>
-                <td>1</td>
-                <td>2023.04.13</td>
-                <td>Suger</td>
-                <td>5</td>
-                <td>Kg</td>
-                <td>2023.12.12</td>
-              </tr>
-
-              <tr>
-                <td>1</td>
-                <td>2023.04.13</td>
-                <td>Suger</td>
-                <td>5</td>
-                <td>Kg</td>
-                <td>2023.12.12</td>
-              </tr>
-
-              <tr>
-                <td>1</td>
-                <td>2023.04.13</td>
-                <td>Suger</td>
-                <td>5</td>
-                <td>Kg</td>
-                <td>2023.12.12</td>
-              </tr>
-
-              <tr>
-                <td>1</td>
-                <td>2023.04.13</td>
-                <td>Suger</td>
-                <td>5</td>
-                <td>Kg</td>
-                <td>2023.12.12</td>
+                <td>3</td>
+                <td>2023.04.17</td>
+                <td>Meatballs</td>
+                <td>10</td>
+                <td>Packets</td>
+                <td>2023.07.10</td>
               </tr>
             </tbody>
           </Table>
